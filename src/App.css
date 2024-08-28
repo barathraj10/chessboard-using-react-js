@@ -1,0 +1,32 @@
+.chess{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+td{
+  border:solid 1px black;
+  padding:10px;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: xx-large;
+
+}
+table{
+  border:solid 4px black;
+  padding:10px;
+}
+td{
+  height:50px;
+  width:50px;
+}
+.white{
+  background-color: rgb(177, 177, 177);
+}
+#white{
+  color:beige;
+}
+
+.black{
+  background-color: rgb(92, 103, 148);
+}
